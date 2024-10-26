@@ -1,0 +1,14 @@
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\bin\Debug\net8.0\Fibo's Sequence.exe
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\bin\Debug\net8.0\Fibo's Sequence.deps.json
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\bin\Debug\net8.0\Fibo's Sequence.runtimeconfig.json
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\bin\Debug\net8.0\Fibo's Sequence.dll
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\bin\Debug\net8.0\Fibo's Sequence.pdb
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.AssemblyInfoInputs.cache
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.AssemblyInfo.cs
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.dll
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\refint\Fibo's Sequence.dll
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.pdb
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\Fibo's Sequence.genruntimeconfig.cache
+C:\Users\Joakim\Documents\workspace\ConcursoProgramación\Fibo's Sequence\obj\Debug\net8.0\ref\Fibo's Sequence.dll
